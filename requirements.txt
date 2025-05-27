@@ -1,0 +1,6 @@
+python-telegram-bot==20.x
+replicate
+Pillow
+requests
+Flask
+gunicorn
